@@ -1,0 +1,17 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README timestamp
+        run: echo "README updated at $(date)" >> update.log
