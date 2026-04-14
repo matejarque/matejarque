@@ -24,12 +24,18 @@ Me especializo en construir soluciones robustas en el **Backend**. Creo firmemen
 
 ---
 
-
-### 📊 Estadísticas
-
+### 📊 Estadísticas de Actividad
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matejarque&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🛠️ Tecnologías y Rendimiento
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matejarque&theme=tokyo-night&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matejarque&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6&cache_seconds=1800" />
 </p>
 
 ---
