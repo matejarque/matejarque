@@ -12,7 +12,7 @@
 
 Me especializo en construir soluciones robustas en el **Backend**. Creo firmemente que la programación, al igual que el entrenamiento, requiere disciplina para alcanzar la maestría.
 
-* 🔭 Enfocado en **Node.js, Express y Java**.
+* 🔭 Enfocado en **Node.js, MySql y Java**.
 * ⚙️ Interesado en arquitectura de bases de datos y escalabilidad.
 * 🎮 Gamer (FPS competitivos y RPG).
 
@@ -24,28 +24,12 @@ Me especializo en construir soluciones robustas en el **Backend**. Creo firmemen
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,mysql,docker,aws,git&theme=dark" />
-</p>
-
----
 
 ### 📊 Estadísticas
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matejarque&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matejarque&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matejarque&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🐍 Actividad
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
